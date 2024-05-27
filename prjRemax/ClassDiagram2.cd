@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prjRemax.clsMaison">
+    <Position X="0.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAhABAAIAAAAQAAAAAAAAgAAAAAACAABAQI=</HashCode>
+      <FileName>clsMaison.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.clsMaisons">
+    <Position X="2" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAgAEAAAAgAQAAAAAAAAEgAAAAAAAGAAAA=</HashCode>
+      <FileName>clsMaisons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.clsClient">
+    <Position X="3.5" Y="0.5" Width="1.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAQAAAAAAEAoAAAAAAAAABAAA=</HashCode>
+      <FileName>clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.clsClients">
+    <Position X="5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAAAAAEAAAAgAQAAAAAAAAEAAAQAAAAEAAAA=</HashCode>
+      <FileName>clsClients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.clsAgent">
+    <Position X="6.5" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAADAABAAAAQAAAAAAEAIAAAAAAAAABAAA=</HashCode>
+      <FileName>clsAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.clsAgents">
+    <Position X="8" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAEAAAAgAQAAAAIAAAEAAAAAIAAEAAAA=</HashCode>
+      <FileName>clsAgents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjRemax.Compagnie">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAACAAAAAEAQAAAACAEAIAAAAAASAAAAAA=</HashCode>
+      <FileName>Compagnie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
